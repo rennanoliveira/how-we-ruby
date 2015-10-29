@@ -36,4 +36,4 @@ Superintendência de Tecnologia da Informação - Universidade Federal Fluminens
 * integration: [capybara](https://github.com/jnicklas/capybara) with selenium-webdriver (no cucumber)
 * page opening: [launchy](https://github.com/copiousfreetime/launchy)  
 * email testing: [email-spec](https://github.com/bmabey/email-spec)
-
+* good practices: [Better Specs](http://betterspecs.org/)
